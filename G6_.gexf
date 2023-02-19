@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-02-19">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="China" label="China" />
+      <node id="India" label="India" />
+      <node id="United States" label="United States" />
+      <node id="Indonesia" label="Indonesia" />
+      <node id="Pakistan" label="Pakistan" />
+      <node id="Brazil" label="Brazil" />
+      <node id="Nigeria" label="Nigeria" />
+      <node id="Bangladesh" label="Bangladesh" />
+      <node id="Russia" label="Russia" />
+      <node id="Mexico" label="Mexico" />
+      <node id="Japan" label="Japan" />
+      <node id="Ethiopia" label="Ethiopia" />
+      <node id="Philippines" label="Philippines" />
+      <node id="Egypt" label="Egypt" />
+      <node id="Vietnam" label="Vietnam" />
+      <node id="DR Congo" label="DR Congo" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Iran" label="Iran" />
+      <node id="Germany" label="Germany" />
+      <node id="Thailand" label="Thailand" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="France" label="France" />
+      <node id="Tanzania" label="Tanzania" />
+      <node id="Italy" label="Italy" />
+      <node id="South-Africa" label="South-Africa" />
+    </nodes>
+    <edges>
+      <edge source="China" target="Vietnam" id="0" weight="1.0" />
+      <edge source="China" target="Turkey" id="1" weight="2.0" />
+      <edge source="China" target="Japan" id="2" weight="2.6457513110645907" />
+      <edge source="India" target="Iran" id="3" weight="3.4641016151377544" />
+      <edge source="India" target="Ethiopia" id="4" weight="3.7416573867739413" />
+      <edge source="United States" target="Thailand" id="5" weight="9.746794344808963" />
+      <edge source="United States" target="Iran" id="6" weight="10.908712114635714" />
+      <edge source="United States" target="Ethiopia" id="7" weight="11.269427669584644" />
+      <edge source="Indonesia" target="Russia" id="8" weight="2.449489742783178" />
+      <edge source="Indonesia" target="Ethiopia" id="9" weight="3.7416573867739413" />
+      <edge source="Indonesia" target="Iran" id="10" weight="3.1622776601683795" />
+      <edge source="Indonesia" target="Thailand" id="11" weight="3.4641016151377544" />
+      <edge source="Pakistan" target="Nigeria" id="12" weight="3.872983346207417" />
+      <edge source="Pakistan" target="Bangladesh" id="13" weight="3.872983346207417" />
+      <edge source="Brazil" target="Tanzania" id="14" weight="4.242640687119285" />
+      <edge source="Brazil" target="Philippines" id="15" weight="5.196152422706632" />
+      <edge source="Brazil" target="South-Africa" id="16" weight="5.656854249492381" />
+      <edge source="Nigeria" target="Mexico" id="17" weight="3.3166247903554" />
+      <edge source="Nigeria" target="Bangladesh" id="18" weight="3.4641016151377544" />
+      <edge source="Nigeria" target="France" id="19" weight="5.0990195135927845" />
+      <edge source="Nigeria" target="Italy" id="20" weight="3.872983346207417" />
+      <edge source="Bangladesh" target="Mexico" id="21" weight="4.58257569495584" />
+      <edge source="Russia" target="Thailand" id="22" weight="2.449489742783178" />
+      <edge source="Mexico" target="Italy" id="23" weight="3.4641016151377544" />
+      <edge source="Mexico" target="France" id="24" weight="4.795831523312719" />
+      <edge source="Japan" target="Turkey" id="25" weight="2.23606797749979" />
+      <edge source="Japan" target="Vietnam" id="26" weight="2.449489742783178" />
+      <edge source="Japan" target="United Kingdom" id="27" weight="2.8284271247461903" />
+      <edge source="Ethiopia" target="Iran" id="28" weight="2.8284271247461903" />
+      <edge source="Philippines" target="Germany" id="29" weight="5.385164807134504" />
+      <edge source="Philippines" target="DR Congo" id="30" weight="5.385164807134504" />
+      <edge source="Egypt" target="Tanzania" id="31" weight="6.082762530298219" />
+      <edge source="Egypt" target="South-Africa" id="32" weight="6.082762530298219" />
+      <edge source="Egypt" target="DR Congo" id="33" weight="6.557438524302" />
+      <edge source="Vietnam" target="Turkey" id="34" weight="1.7320508075688772" />
+      <edge source="Vietnam" target="United Kingdom" id="35" weight="2.8284271247461903" />
+      <edge source="DR Congo" target="Germany" id="36" weight="4.242640687119285" />
+      <edge source="DR Congo" target="Tanzania" id="37" weight="4.898979485566356" />
+      <edge source="Turkey" target="United Kingdom" id="38" weight="2.6457513110645907" />
+      <edge source="Iran" target="Thailand" id="39" weight="3.4641016151377544" />
+      <edge source="France" target="Italy" id="40" weight="3.3166247903554" />
+      <edge source="Tanzania" target="South-Africa" id="41" weight="4.47213595499958" />
+    </edges>
+  </graph>
+</gexf>
